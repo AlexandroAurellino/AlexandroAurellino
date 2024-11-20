@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexandro Aurellino
 ===========================================================================================================================================
 
-Student | Software Engineer | Computer Vision
+Student | Software Engineer | Data Analyst
 ---------------------------------------------
 
-Im a computer vision nerd
+Im an AI nerd
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [alxaurellino@gmail.com](mailto:alxaurellino@gmail.com)
