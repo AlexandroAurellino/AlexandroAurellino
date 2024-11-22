@@ -8,7 +8,7 @@ Im an AI nerd
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [alxaurellino@gmail.com](mailto:alxaurellino@gmail.com)
-* 🚀  I'm currently working on [MyAnimeList Manga Web Scrap](http://github.com/AlexandroAurellino/MAL_WebSrcapper)
+* 🚀  I'm currently working on [MyAnimeList Manga Web Scrap](http://github.com/AlexandroAurellino/MAL_WebSrcapper) and [AgriScan](https://github.com/AgriScan-C242-PS521)
 * 🧠  I'm learning YOLO, TensorFlow
 * 🤝  I'm open to collaborating on any ML projects
 
